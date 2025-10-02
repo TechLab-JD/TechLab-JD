@@ -10,7 +10,7 @@ Currently building projects to bridge operations and technology.
 - **Focus Areas:** Workflow Automation, Data Analysis, Technical Support
 
 ## 🚀 Projects
-- [Task Manager](https://github.com/TechLab-JD/Task-Manager-CLI)  In-Progress
+- [Task Manager](https://github.com/TechLab-JD/Task-Manager-CLI)  Complete
 - [Personal Portfolio Website](https://github.com/TechLab-JD/Personal-Portfolio-Website)  In-Progress
 - [Weather App] TBA
 - [Data Dashboard] TBA
