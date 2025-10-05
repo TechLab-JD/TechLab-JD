@@ -11,10 +11,10 @@ Currently building projects to bridge operations and technology.
 
 ## 🚀 Projects
 - [Task Manager](https://github.com/TechLab-JD/Task-Manager-CLI)  Complete
-- [Personal Portfolio Website](https://github.com/TechLab-JD/Personal-Portfolio-Website)  In-Progress
+- [Personal Portfolio Website](https://github.com/TechLab-JD/Personal-Portfolio-Website)  MVP
+- [Inventory Tracker Automation](https://github.com/TechLab-JD/Inventory-Tracker) In-Progress
 - [Weather App] TBA
 - [Data Dashboard] TBA
-- [Inventory Tracker Automation] TBA
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/jordan-dorman-8a57b2107)  
